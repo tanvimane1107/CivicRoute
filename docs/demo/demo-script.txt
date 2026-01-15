@@ -1,1 +1,15 @@
 Demo video narration script for CivicRoute.
+Hello everyone, this is CivicRoute — a smart city solution designed to improve traffic management and road construction awareness.
+
+Urban areas often face traffic congestion due to unplanned or poorly communicated road construction. CivicRoute solves this by connecting citizens and authorities on a single platform.
+
+The home screen shows an interactive map highlighting active and upcoming road construction zones. Users can search routes and receive traffic alerts before starting their journey.
+
+Citizens can report new road construction or roadblocks by selecting a location, adding basic details, and submitting the report through the app.
+
+On the authority side, the dashboard allows officials to verify citizen reports, manage construction projects, and update road status in real time.
+
+By providing transparent communication between citizens and government authorities, CivicRoute helps reduce congestion, save time, and improve urban mobility.
+
+Thank you.
+
