@@ -1,4 +1,4 @@
-This folder contains diagrams and documentation.
+
 # CivicRoute 🚦
 
 CivicRoute is a smart city platform designed to inform citizens about active and planned road construction projects and help them plan routes efficiently.
