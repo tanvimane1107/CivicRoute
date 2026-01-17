@@ -15,3 +15,4 @@ CivicRoute is a smart city platform designed to inform citizens about active and
 
 ## Status
 This project currently includes system design, architecture, and UI mockups as part of the MVP proposal.
+
